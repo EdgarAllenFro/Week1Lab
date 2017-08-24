@@ -21,7 +21,7 @@ Here's a walkthrough of implemented user stories #1 - But all checked as done fo
 <img src='' width='' alt='Video Walkthrough' />
 ### Notes
 ##### License
-    Copyright [2017] [Byron Williams]
+    Copyright [2017] [Ben Wiggins]
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
