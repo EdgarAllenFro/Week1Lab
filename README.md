@@ -11,8 +11,8 @@ The following **required** functionality is completed:
 1. [X]  Required: Challenge 1 - HTTP Headers
 1. [X]  Required: Challenge 2 - Basic Routes 1
 1. [X]  Required: Challenge 3 - Query Params 1
-1. []  Required: Challenge 4 - Insecure Direct Object References (IDOR)
-1. []  Required: Challenge 5 - IDOR Challenge 1 
+1. [X]  Required: Challenge 4 - Insecure Direct Object References (IDOR)
+1. [X]  Required: Challenge 5 - IDOR Challenge 1 
 The following advanced challenges are optional:
 * []  Bonus 1: IDOR Challenge 2 
 * [ ]  Bonus 2: IDOR Bank Challenge 3
