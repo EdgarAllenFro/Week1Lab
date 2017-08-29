@@ -17,8 +17,8 @@ The following advanced challenges are optional:
 * []  Bonus 1: IDOR Challenge 2 
 * [ ]  Bonus 2: IDOR Bank Challenge 3
 ### Video Walkthrough
-Here's a walkthrough of implemented user stories #1 - But all checked as done for my username '' :
-<img src='' width='' alt='Video Walkthrough' />
+Here's a gif showing the completed sections
+<img src='https://github.com/EdgarAllenFro/Week1Lab/blob/master/lab1vid.gif' width='' alt='Video Walkthrough' />
 ### Notes
 ##### License
     Copyright [2017] [Ben Wiggins]
